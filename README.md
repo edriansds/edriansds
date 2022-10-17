@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - 📞 +55 92988329403
 - 📩 edrian1503@gmail.com
-- 📈 linkedin.com/in/edriansantos
+- 📈 https://www.linkedin.com/in/edriansantos
 
 <!---
 edriansds/edriansds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
