@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edriansds
-- 📣 I'm a Software Developer, with interest in Web Development, Data Science and Artifical Intelligence
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on any project that involves solution of real world problems 
+- 📣 I'm a Software Developer, with interest in Web, Mobile Development and Artifical Intelligence
+- 🌱 I’m currently looking to learn differents types of software development (Game and Mobile)
+- 💞️ I’m looking to evolve my coding and problem solving abilities, using of technology to benefit society
 - 📫 How to reach me:
 - 📞 +55 92988329403
 - 📩 edrian1503@gmail.com
