@@ -4,7 +4,7 @@
 - 💞️ I’m looking to evolve my coding and problem solving abilities, using of technology to benefit society
 - 📫 How to reach me:
 - 📞 +55 92988329403
-- 📩 edrian1503@gmail.com
+- 📩 edriansdsantos@gmail.com
 - 📈 https://www.linkedin.com/in/edriansantos
 
 <!---
